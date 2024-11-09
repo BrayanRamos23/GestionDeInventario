@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bryan\\source\\repos\\GestionDeInventario\\",
+  "WorkspaceRootPath": "C:\\Users\\Bryan\\OneDrive\\Escritorio\\GestionDeInventarioUNI\\GestionDeInventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6ADE8384-3309-4E2F-A4DB-03062434907D}|GestionDeInventario\\GestionDeInventario.csproj|c:\\users\\bryan\\source\\repos\\gestiondeinventario\\gestiondeinventario\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6ADE8384-3309-4E2F-A4DB-03062434907D}|GestionDeInventario\\GestionDeInventario.csproj|solutionrelative:gestiondeinventario\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6ADE8384-3309-4E2F-A4DB-03062434907D}|GestionDeInventario\\GestionDeInventario.csproj|c:\\users\\bryan\\source\\repos\\gestiondeinventario\\gestiondeinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6ADE8384-3309-4E2F-A4DB-03062434907D}|GestionDeInventario\\GestionDeInventario.csproj|c:\\users\\bryan\\onedrive\\escritorio\\gestiondeinventariouni\\gestiondeinventario\\gestiondeinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6ADE8384-3309-4E2F-A4DB-03062434907D}|GestionDeInventario\\GestionDeInventario.csproj|solutionrelative:gestiondeinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6ADE8384-3309-4E2F-A4DB-03062434907D}|GestionDeInventario\\GestionDeInventario.csproj|c:\\users\\bryan\\source\\repos\\gestiondeinventario\\gestiondeinventario\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6ADE8384-3309-4E2F-A4DB-03062434907D}|GestionDeInventario\\GestionDeInventario.csproj|c:\\users\\bryan\\onedrive\\escritorio\\gestiondeinventariouni\\gestiondeinventario\\gestiondeinventario\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6ADE8384-3309-4E2F-A4DB-03062434907D}|GestionDeInventario\\GestionDeInventario.csproj|solutionrelative:gestiondeinventario\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADE8384-3309-4E2F-A4DB-03062434907D}|GestionDeInventario\\GestionDeInventario.csproj|c:\\users\\bryan\\onedrive\\escritorio\\gestiondeinventariouni\\gestiondeinventario\\gestiondeinventario\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ADE8384-3309-4E2F-A4DB-03062434907D}|GestionDeInventario\\GestionDeInventario.csproj|solutionrelative:gestiondeinventario\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Bryan\\source\\repos\\GestionDeInventario\\GestionDeInventario\\Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Bryan\\OneDrive\\Escritorio\\GestionDeInventarioUNI\\GestionDeInventario\\GestionDeInventario\\Producto.cs",
               "RelativeDocumentMoniker": "GestionDeInventario\\Producto.cs",
-              "ToolTip": "C:\\Users\\Bryan\\source\\repos\\GestionDeInventario\\GestionDeInventario\\Producto.cs",
+              "ToolTip": "C:\\Users\\Bryan\\OneDrive\\Escritorio\\GestionDeInventarioUNI\\GestionDeInventario\\GestionDeInventario\\Producto.cs",
               "RelativeToolTip": "GestionDeInventario\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T21:34:55.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Inventario.cs",
-              "DocumentMoniker": "C:\\Users\\Bryan\\source\\repos\\GestionDeInventario\\GestionDeInventario\\Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\Bryan\\OneDrive\\Escritorio\\GestionDeInventarioUNI\\GestionDeInventario\\GestionDeInventario\\Inventario.cs",
               "RelativeDocumentMoniker": "GestionDeInventario\\Inventario.cs",
-              "ToolTip": "C:\\Users\\Bryan\\source\\repos\\GestionDeInventario\\GestionDeInventario\\Inventario.cs",
+              "ToolTip": "C:\\Users\\Bryan\\OneDrive\\Escritorio\\GestionDeInventarioUNI\\GestionDeInventario\\GestionDeInventario\\Inventario.cs",
               "RelativeToolTip": "GestionDeInventario\\Inventario.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wA8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T21:34:30.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bryan\\source\\repos\\GestionDeInventario\\GestionDeInventario\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bryan\\OneDrive\\Escritorio\\GestionDeInventarioUNI\\GestionDeInventario\\GestionDeInventario\\Program.cs",
               "RelativeDocumentMoniker": "GestionDeInventario\\Program.cs",
-              "ToolTip": "C:\\Users\\Bryan\\source\\repos\\GestionDeInventario\\GestionDeInventario\\Program.cs",
+              "ToolTip": "C:\\Users\\Bryan\\OneDrive\\Escritorio\\GestionDeInventarioUNI\\GestionDeInventario\\GestionDeInventario\\Program.cs",
               "RelativeToolTip": "GestionDeInventario\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwCgAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T21:28:01.641Z",
               "EditorCaption": ""
